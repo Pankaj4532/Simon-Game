@@ -24,7 +24,8 @@ This is a simple browser-based **Simon Game** built using HTML, CSS, JavaScript,
 ├── index.html       # Main HTML page
 ├── styles.css       # Styling for the game
 ├── game.js          # Game logic using jQuery
-└── sounds/          # Sound files for each button (not included here)
+├── sounds/          # Sound files for each button (not included here)
+└── screenshots/     # Screenshots of gameplay
 ```
 
 ## 💡 Features
@@ -35,12 +36,11 @@ This is a simple browser-based **Simon Game** built using HTML, CSS, JavaScript,
 
 ## 📸 Preview
 
-![Simon Game Preview](https://user-images.githubusercontent.com/your-image-link) *(Optional)*
+### Start Screen
+![Start Screen](./Screenshots/S1.png)
 
-## 🔗 Live Demo
-
-> You can deploy this easily on GitHub Pages or Netlify.
+### Level 1 Example
+![Level 1 Screen](./Screenshots/S2.png)
 
 ## 📜 License
-
 This project is open source and free to use for learning purposes.

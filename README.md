@@ -42,5 +42,11 @@ This is a simple browser-based **Simon Game** built using HTML, CSS, JavaScript,
 ### Level 1 Example
 ![Level 1 Screen](./Screenshots/S2.png)
 
+
+## 🔗 Live Demo
+
+👉 [Play it here.](https://pankaj4532.github.io/Simon-Game/)
+
+
 ## 📜 License
 This project is open source and free to use for learning purposes.
